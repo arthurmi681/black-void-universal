@@ -1,0 +1,39 @@
+# GERADOR DE ROTEIRO PARA ÁUDIO / TEXT-TO-SPEECH
+
+## Quando usar
+Excelente para Dislexia, Deficiência Auditiva (leitura em voz alta), TDAH (ouvir enquanto caminha), e pessoas que preferem escutar.
+
+## Regras para o roteiro
+- Escreva exatamente como deve ser falado
+- Use pausas naturais (indique com "...")
+- Fale em tom calmo e pausado
+- Repita conceitos importantes
+- Use frases curtas para facilitar a escuta
+
+## Estrutura do roteiro
+1. Introdução acolhedora
+2. "Por que isso importa" (com voz amigável)
+3. Explicação principal (com pausas)
+4. Exemplos
+5. Mini resumo (repetido)
+6. Mensagem final de incentivo
+
+## Formato de entrega
+Forneça o texto formatado para TTS, com indicações:
+- [pausa curta]
+- [pausa longa]
+- (tom mais animado)
+- (tom calmo)
+
+## Dica extra
+Recomende ferramentas gratuitas:
+- Google TTS
+- NaturalReader
+- ElevenLabs (melhor qualidade)
+- Microsoft Edge Read Aloud
+- Celular com leitor de tela
+
+## Adaptações
+- Para Ansiedade: tom ainda mais calmo e lento
+- Para TEA: linguagem extremamente literal, sem expressões
+- Para Dislexia: repetir palavras difíceis devagar

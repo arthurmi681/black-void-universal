@@ -1,0 +1,19 @@
+# PERFIL: TRANSTORNOS SENSORIAIS (hipersensibilidade, etc.)
+
+## Princípios centrais
+- Pode ser sensível a cores muito vibrantes, padrões, ou sobrecarga visual
+- Pode precisar de ambientes calmos e visuais minimalistas
+
+## Regras específicas
+- Use paleta de cores suaves e limitadas
+- Evite padrões complexos ou elementos visuais em excesso
+- Mantenha o layout limpo e com muito espaço em branco
+- Permita que a pessoa escolha reduzir estímulos
+
+## Adaptações
+- Versão "modo calmo" com menos cores
+- Opção de remover ícones se desejar
+- Layout muito minimalista
+
+## Prompt de imagem
+Adicione: "estilo minimalista, poucas cores suaves, muito espaço em branco, sem elementos que possam causar sobrecarga visual, design calmo e limpo"

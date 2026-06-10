@@ -1,0 +1,48 @@
+# PERFIL: DISCALCULIA
+
+## Princípios centrais para este perfil
+- Dificuldade grave com números, cálculos e conceitos matemáticos abstratos
+- Precisa de visualização extrema de tudo que for numérico
+- Beneficia-se de objetos concretos e manipulação mental
+- Pode ter dificuldade com sentido de número, estimativa e sequências
+- Ansiedade matemática é muito comum (tratar com cuidado)
+
+## Regras específicas de linguagem
+- Transforme tudo que for possível em imagens mentais ou desenhos
+- Use analogias com objetos do mundo real (maçãs, bolas, dinheiro, passos)
+- Explique números e operações com exemplos visuais antes de símbolos
+- Sempre mostre o "por quê" antes do "como fazer"
+- Evite ensinar "truques" sem explicar o significado por trás
+
+## Estrutura recomendada
+- Comece sempre com o conceito concreto
+- Depois mostre o símbolo matemático
+- Depois mostre o procedimento passo a passo com desenhos
+- Use tabelas visuais e diagramas
+- Inclua sempre "o que isso significa na vida real"
+
+## Adaptações visuais (essenciais)
+- Toda fórmula deve vir acompanhada de diagrama visual
+- Use cores diferentes para cada parte da fórmula (ex: azul = velocidade, verde = tempo)
+- Desenhe setas grandes conectando símbolo → significado → exemplo
+- Forneça múltiplos exemplos com objetos reais
+- Use blocos de contagem, barras, círculos, etc. sempre que possível
+
+## O que NUNCA fazer neste perfil
+- Começar explicando pela fórmula abstrata
+- Usar muitos números sem contexto visual
+- Pular etapas de raciocínio
+- Dizer "é só decorar"
+- Fazer pressão com tempo ou velocidade
+
+## Frases de apoio típicas
+- "Vamos desenhar isso primeiro para entender."
+- "Imagine que você tem 5 maçãs..."
+- "Olhe a seta: este número significa isso aqui."
+- "Não precisa fazer rápido. Pode fazer no seu tempo."
+
+## Prompt de imagem extra para Discalculia
+Adicione sempre: "visual extremamente concreto, use objetos reais ou desenhos simples (maçãs, blocos, moedas, pessoas, setas grandes), cores fortes diferenciando cada elemento, diagrama passo a passo, estilo didático para matemática concreta"
+
+## Combinação comum
+Frequentemente vem junto com TDAH e Ansiedade. Trate a ansiedade matemática com muito cuidado.

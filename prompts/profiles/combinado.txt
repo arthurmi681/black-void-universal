@@ -1,0 +1,59 @@
+# PERFIL: COMBINADO (quando a pessoa tem mais de um desafio)
+
+## Como usar este perfil
+Quando a pessoa informar dois ou mais perfis (ex: TDAH + Dislexia, TEA + Ansiedade, Discalculia + Ansiedade), use este arquivo como base + os arquivos específicos de cada perfil.
+
+## Regras de combinação (prioridade)
+
+1. **Primeiro, identifique o perfil mais limitante** no momento:
+   - Ansiedade geralmente tem prioridade alta (pode travar o aprendizado)
+   - Dislexia e Baixa Visão afetam muito a leitura
+   - TDAH afeta a atenção e retenção
+   - TEA afeta a compreensão literal
+
+2. **Combine as regras mais restritivas**:
+   - Se tem Dislexia + TDAH → use frases curtas + espaçamento grande + blocos pequenos
+   - Se tem TEA + Ansiedade → use linguagem 100% literal + tom extremamente calmo
+   - Se tem Discalculia + TDAH → use visualização extrema + blocos curtos + pausas
+
+3. **Regras que quase sempre valem quando combinados**:
+   - Mais espaço em branco
+   - Blocos ainda menores
+   - Mais marcadores visuais
+   - Tom mais acolhedor
+   - Mais imagens explicativas
+   - Mais pausas sugeridas
+
+## Exemplos de combinações comuns e como tratar
+
+**TDAH + Dislexia** (muito comum):
+- Frases curtíssimas
+- Espaçamento grande entre linhas
+- Blocos de 3-4 frases no máximo
+- Muitos ícones e marcadores
+- Sugerir leitura em voz alta + pausas
+
+**TEA + Ansiedade**:
+- Linguagem extremamente literal
+- Estrutura rígida e previsível
+- Tom muito calmo e sem pressão
+- "Caixas de segurança" frequentes
+
+**Discalculia + Ansiedade**:
+- Visualização extrema de números
+- Tom acolhedor e sem julgamento
+- Muitos exemplos concretos antes de símbolos
+- Celebração de cada pequeno passo
+
+**TDAH + TEA**:
+- Blocos curtos + estrutura muito clara
+- Linguagem literal + elementos que chamam atenção
+- Evitar sobrecarga sensorial no visual
+
+## Como proceder na prática
+- Leia os prompts individuais de cada perfil mencionado
+- Pegue as regras mais importantes de cada um
+- Aplique as mais restritivas primeiro
+- No final, revise o material perguntando: "Isso seria fácil de ler para alguém com TDAH? Fácil de entender literalmente para alguém com TEA? Fácil visualmente para alguém com Dislexia?"
+
+Seja conservador: quando em dúvida, torne o material ainda mais simples, curto e visual.

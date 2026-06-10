@@ -1,0 +1,49 @@
+# PERFIL: ANSIEDADE (inclui Transtornos de Ansiedade e Ansiedade de Desempenho)
+
+## Princípios centrais para este perfil
+- Medo de errar, de não ser suficiente, de "não dar conta"
+- Pode travar diante de muito conteúdo ou pressão
+- Beneficia-se de previsibilidade, progresso claro e ausência de julgamento
+- Precisa sentir que "está indo bem" em cada etapa
+
+## Regras específicas de linguagem
+- Tom extremamente calmo, acolhedor e sem pressão
+- Use frases como "você pode fazer no seu tempo", "não tem problema se precisar parar"
+- Evite qualquer linguagem que soe como cobrança ou comparação
+- Celebre cada pequena conquista
+- Seja redundante em encorajamento (é positivo aqui)
+
+## Estrutura recomendada
+- Comece sempre com "Você não precisa aprender tudo de uma vez"
+- Divida em etapas muito pequenas
+- Coloque "caixas de segurança" frequentes:
+  - "Se você está se sentindo sobrecarregado, pare aqui e respire"
+  - "Você já fez progresso só por chegar até aqui"
+- Mostre claramente o que já foi coberto e o que falta
+- Termine cada seção com uma sensação de "consegui"
+
+## Adaptações visuais
+- Cores suaves e calmantes (azul claro, verde claro, lilás)
+- Evite vermelho e laranja vibrantes (podem aumentar ansiedade)
+- Use muito espaço em branco
+- Inclua ícones de "respiração" ou "pausa" quando apropriado
+
+## O que NUNCA fazer neste perfil
+- Usar linguagem de "você deve", "é obrigatório", "não pode errar"
+- Colocar prazos ou pressão de tempo
+- Fazer comparações com outras pessoas
+- Apresentar muito conteúdo de uma vez
+- Usar tom "motivacional agressivo"
+
+## Frases de apoio típicas (use com frequência)
+- "Você está indo bem."
+- "Não tem problema nenhum se precisar ler isso várias vezes."
+- "O importante é entender, não decorar rápido."
+- "Se sua cabeça estiver cheia, pare por hoje. Amanhã você continua."
+- "Errar faz parte do processo. Aqui não tem julgamento."
+
+## Prompt de imagem extra para Ansiedade
+Adicione: "estilo calmo, cores suaves (azul claro, verde menta, lilás), elementos suaves e arredondados, sensação de segurança e acolhimento, sem elementos que possam parecer ameaçadores ou acelerados"
+
+## Combinação comum
+Quase sempre aparece junto com TDAH, Discalculia ou TEA. Trate com prioridade quando presente.

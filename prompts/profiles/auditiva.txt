@@ -1,0 +1,10 @@
+# PERFIL: DEFICIÊNCIA AUDITIVA (versão alternativa)
+
+Este arquivo é similar a `deficiencia_auditiva.txt`. Use o mais completo.
+
+**Foco principal:**
+- Todo aprendizado é visual e textual
+- Máximo de diagramas, setas, mapas mentais e imagens explicativas
+- Texto deve ser autossuficiente (não depende de áudio)
+
+Regras idênticas ao arquivo `deficiencia_auditiva.txt`.

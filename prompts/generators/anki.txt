@@ -1,0 +1,37 @@
+# GERADOR DE CARDS PARA ANKI
+
+## Quando usar
+Peça quando a pessoa quiser versão para memorização espaçada (ótimo para TDAH, Dislexia, e revisão rápida).
+
+## Formato de saída
+Gere cards no formato Anki (frente | verso) ou Markdown que possa ser importado.
+
+## Regras para cards bons
+- Frente: pergunta curta e direta
+- Verso: resposta curta + explicação mínima + macete (se existir)
+- Uma ideia por card
+- Use marcadores quando possível
+
+## Exemplos de estrutura de card
+
+**Card 1**
+Frente: O que é fotossíntese?
+Verso: Processo em que as plantas transformam luz do sol em energia (glicose).  
+Macete: "Planta come luz e faz açúcar"
+
+**Card 2**
+Frente: Qual a fórmula da fotossíntese?
+Verso: 6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂  
+Macete: "Carbono + Água + Luz = Açúcar + Oxigênio"
+
+## Adaptações por perfil
+- TDAH: cards muito curtos, com imagens quando possível
+- Dislexia: evite palavras longas, use sílabas quando necessário
+- Discalculia: cards com muito mais visualização (descreva imagens)
+- Ansiedade: cards com tom calmo e "não precisa decorar tudo de uma vez"
+
+## Como entregar
+Forneça:
+1. Lista de cards em formato simples (Frente | Verso)
+2. Instrução de como importar no Anki
+3. Sugestão de tags (ex: #matematica #bhaskara #tdah)

@@ -1,0 +1,53 @@
+# GERADOR DE PROMPTS PARA IMAGENS IA
+
+## Regras gerais para TODAS as imagens
+- Estilo base: Flat design, clean, educational
+- Cores vibrantes mas não cansativas
+- Fundo claro (branco ou muito claro)
+- **NUNCA** coloque texto dentro da imagem
+- Sempre forneça alt text descritivo detalhado
+- Proporção recomendada: 16:9 para seções grandes, 1:1 para ícones
+
+## Prompt base (adapte sempre)
+"Flat design educational illustration, [TEMA ESPECÍFICO], colorful, clean white background, simple icons and shapes, arrows when needed, high clarity, suitable for students with learning difficulties, no text in the image, [ADAPTAÇÕES DO PERFIL]"
+
+## Adaptações por perfil (adicione no final do prompt)
+
+**TDAH**: + "dynamic composition, movement elements, large arrows, energetic but clean colors, attention-grabbing but not overwhelming"
+
+**TEA**: + "highly structured, logical layout, predictable composition, soft consistent colors, no abstract elements"
+
+**Dislexia**: + "very clean layout, large elements, high contrast, minimal details"
+
+**Discalculia**: + "extremely concrete visualization, use real objects (apples, blocks, people, cars), very clear arrows connecting numbers to meaning, step-by-step visual"
+
+**Baixa Visão**: + "extreme high contrast, thick lines, large simple shapes, primary strong colors, minimalism, no fine details"
+
+**Ansiedade**: + "calm style, soft colors (light blue, mint green, soft purple), rounded shapes, safe and welcoming feeling"
+
+**Criança**: + "friendly childlike style, very vibrant colors, cute characters, big elements, joyful and inviting"
+
+**Combinado**: Use as adaptações mais restritivas de cada perfil.
+
+## Exemplos de prompts prontos
+
+### Capa
+"Flat design educational illustration of [TÓPICO], representing the main idea clearly and friendly, [ADAPTAÇÕES], clean white background, 16:9, no text"
+
+### Por que importa
+"Flat design scene showing [CONCEITO] in everyday life, person using or experiencing it, relatable situation, [ADAPTAÇÕES], clean white background, 16:9"
+
+### Explicação
+"Flat design diagram explaining [CONCEITO], with arrows, simple icons, before and after when useful, [ADAPTAÇÕES], clean white background, 16:9"
+
+### Fórmula
+"Flat design mathematical or scientific diagram of the formula [FÓRMULA], each variable in different color, large arrows pointing to meaning, concrete example illustrated next to it, [ADAPTAÇÕES], clean white background, 16:9"
+
+### Mini resumo / Mapa mental
+"Flat design mind map or block diagram summarizing the main concepts of [TÓPICO], connected with simple arrows, colorful nodes, very clear structure, [ADAPTAÇÕES], clean white background, 16:9"
+
+## Alt text (sempre forneça)
+Exemplo: "Diagrama mostrando uma planta com setas coloridas saindo do sol para as folhas, representando a fotossíntese. O sol está amarelo, as folhas verdes, e há setas azuis saindo das folhas representando oxigênio."
+
+## Dica
+Sempre gere 1 prompt de imagem por seção relevante + 1 alt text.

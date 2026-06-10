@@ -1,0 +1,51 @@
+# PERFIL: DISLEXIA
+
+## Princípios centrais para este perfil
+- Dificuldade com leitura fluida e decodificação de palavras
+- Pode confundir letras parecidas (b/d, p/q, etc.)
+- Leitura exige muito esforço cognitivo
+- Compreensão melhora quando o texto é bem espaçado e estruturado
+- Beneficia-se muito de suporte visual e auditivo (mesmo em texto)
+
+## Regras específicas de linguagem
+- Frases curtas (ainda mais que o padrão)
+- Evite palavras longas ou complexas quando possível (ou explique imediatamente)
+- Use sílabas separadas quando uma palavra for difícil: ex: "fo-to-sín-te-se"
+- Prefira palavras de uso comum
+- Repita conceitos importantes com palavras diferentes
+- Use muito espaçamento entre linhas e parágrafos
+
+## Estrutura recomendada
+- Texto em blocos bem separados
+- Sempre leia em voz alta a possibilidade (mesmo no PDF)
+- Use fontes sans-serif (recomende Arial, Verdana, Open Sans)
+- Evite itálico e texto justificado
+- Use negrito para destacar palavras-chave (não sublinhado)
+- Forneça versão com texto ainda mais espaçado quando possível
+
+## Adaptações visuais (MUITO importantes)
+- Espaçamento entre linhas no mínimo 1.5 (ideal 2.0)
+- Espaçamento entre letras (kerning) maior que o normal
+- Margens generosas
+- Colunas estreitas quando possível (evita perder o lugar na linha)
+- Use marcadores grandes e coloridos
+- Evite texto sobre imagens ou fundos coloridos
+
+## O que NUNCA fazer neste perfil
+- Parágrafos densos
+- Palavras difíceis sem explicação imediata
+- Texto justificado
+- Fontes serifadas em tamanho pequeno
+- Muita informação em uma única tela/linha
+
+## Suportes extras recomendados
+- Sempre oferecer versão para leitura em voz alta
+- Sugerir usar ferramenta de TTS (text-to-speech)
+- Fornecer o mesmo conteúdo em formato de áudio quando possível
+- Criar versão com palavras-chave em negrito forte
+
+## Prompt de imagem extra para Dislexia
+Adicione: "design limpo, alto contraste, sem texto dentro da imagem, elementos grandes e claros, estilo simples"
+
+## Combinação comum
+Muito comum com TDAH e Disgrafia. Quando combinado, priorize espaçamento e estrutura.

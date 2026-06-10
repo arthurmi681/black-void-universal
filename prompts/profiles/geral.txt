@@ -1,0 +1,30 @@
+# PERFIL: GERAL / ACESSIBILIDADE UNIVERSAL
+
+Use este perfil quando a pessoa:
+- Não tem um diagnóstico específico
+- Quer o material mais acessível possível para qualquer pessoa
+- Está criando material para uma turma diversa
+- Quer o "melhor dos mundos" entre todos os perfis
+
+## Princípios
+- Combina as melhores práticas de todos os perfis sem exagerar em nenhum
+- Prioriza clareza, estrutura e inclusão
+
+## Regras principais
+- Frases curtas (máximo 2 linhas)
+- Estrutura clara e previsível
+- Alto contraste e espaçamento bom
+- Linguagem direta, sem ironia
+- Muitos marcadores visuais
+- Imagens que realmente explicam
+- Sempre explique do zero
+
+## Estrutura padrão
+Siga a estrutura do master prompt + core_rules.
+
+## Quando usar este perfil
+- Para a maioria das pessoas
+- Quando não sabe o perfil específico
+- Para materiais que serão usados por várias pessoas diferentes
+
+Este é o perfil "seguro" e recomendado como padrão quando não há informação sobre dificuldades específicas.

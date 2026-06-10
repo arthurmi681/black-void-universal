@@ -1,0 +1,38 @@
+# PERFIL: DISGRAFIA
+
+## Princípios centrais para este perfil
+- Dificuldade com escrita manual (letra, organização no papel)
+- Cansaço rápido ao escrever
+- Pode ter letra irregular, espaçamento ruim ou dificuldade com copiar
+- A escrita exige muito esforço motor e cognitivo
+
+## Regras específicas de linguagem
+- Priorize formatos que não exijam muita escrita do aluno
+- Ofereça alternativas: digitação, gravação de voz, preenchimento de lacunas
+- Evite atividades que exijam copiar longos trechos
+
+## Estrutura recomendada
+- Forneça resumos já prontos (não peça para copiar)
+- Crie versões com espaços para preencher (poucos)
+- Ofereça mapas mentais e esquemas prontos
+- Sugira usar computador ou tablet para anotações
+
+## Adaptações
+- Sempre ofereça o material em formato digital editável
+- Crie versões com letra grande para quem quiser imprimir e escrever por cima
+- Inclua versões para Anki ou cartões (menos escrita)
+- Sugira ditado para a IA ou uso de reconhecimento de voz
+
+## O que NUNCA fazer
+- Pedir que a pessoa copie longos textos à mão
+- Exigir respostas escritas longas como única forma de prática
+- Usar atividades que dependam de caligrafia bonita
+
+## Suportes extras
+- Versão para Anki (ótima para disgrafia)
+- Versão em áudio
+- Versão com lacunas para completar (poucas)
+- Sugestão de usar IA para ditar respostas
+
+## Prompt de imagem
+Adicione: "design simples, elementos grandes, foco em compreensão visual ao invés de escrita"

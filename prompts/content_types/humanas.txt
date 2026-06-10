@@ -1,0 +1,40 @@
+# ADAPTAÇÕES PARA HISTÓRIA, GEOGRAFIA, SOCIOLOGIA E HUMANAS
+
+## Regras específicas para estas áreas
+
+### Foco em "Por que isso importa?"
+- Sempre conecte com o mundo atual da pessoa
+- "Isso ainda acontece hoje porque..."
+- "Você já viu algo parecido quando..."
+
+### Cronologias e sequências
+- Sempre transforme em linha do tempo visual
+- Use datas + o que aconteceu + por que foi importante
+- Máximo 6-8 eventos principais (nunca sobrecarregue)
+
+### Causas e consequências
+- Use diagramas de causa → efeito com setas
+- Sempre mostre múltiplas causas quando existirem
+- Evite simplificar demais (mas mantenha claro)
+
+### Conceitos abstratos (ex: democracia, capitalismo, revolução)
+- Sempre dê exemplo concreto primeiro
+- Depois explique o conceito
+- Use histórias de pessoas reais quando possível
+
+### Mapas e localizações
+- Sempre inclua descrição visual do mapa
+- "Imagine um mapa da Europa. A França fica aqui..."
+- Forneça prompt de imagem para mapa simplificado
+
+## Estrutura recomendada para Humanas
+1. Por que isso importa hoje?
+2. O que aconteceu (resumo em ordem)
+3. Quem foram as pessoas principais (com características simples)
+4. Causas (com diagrama)
+5. Consequências (com diagrama)
+6. O que você precisa lembrar (pontos chave)
+7. Erros comuns de interpretação
+
+## Prompt especial de imagem para Humanas
+"Flat design historical or social illustration, [TEMA], clear and simple, timeline or map style when appropriate, people and objects represented simply, clean white background, educational style, no text in the image"

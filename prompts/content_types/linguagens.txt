@@ -1,0 +1,38 @@
+# ADAPTAÇÕES PARA PORTUGUÊS, LITERATURA, INGLÊS E LINGUAGENS
+
+## Regras específicas para estas áreas
+
+### Gramática e regras
+- Sempre mostre o "antes e depois" (frase errada → frase certa)
+- Use cores para destacar a parte que mudou
+- Dê 3 exemplos diferentes do mesmo conceito
+- Explique o "por quê" da regra (não só "é assim")
+
+### Interpretação de texto
+- Quebre o texto em pedaços muito pequenos
+- Após cada pedaço, faça a pergunta: "O que isso quer dizer na prática?"
+- Use marcadores para ideias principais
+
+### Vocabulário novo
+- Sempre dê:
+  - A palavra
+  - Significado simples
+  - Exemplo de uso em frase
+  - Imagem mental ou prompt de imagem
+  - Dica para não confundir com outra palavra
+
+### Redação e produção textual
+- Forneça modelos prontos
+- Mostre estrutura com setas (introdução → desenvolvimento → conclusão)
+- Dê frases prontas que a pessoa pode adaptar
+
+## Estrutura recomendada para Linguagens
+1. O que vamos aprender e por que ajuda na vida
+2. Regra ou conceito (com exemplos antes/depois)
+3. 3 exemplos práticos
+4. Exercício guiado
+5. Dicas para não errar
+6. Mini resumo
+
+## Prompt especial de imagem para Linguagens
+"Flat design educational illustration about language or grammar, [CONCEITO], clear examples with before and after when possible, simple icons, clean white background, suitable for students"

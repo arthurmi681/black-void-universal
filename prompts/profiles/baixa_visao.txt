@@ -1,0 +1,47 @@
+# PERFIL: BAIXA VISÃO / DEFICIÊNCIA VISUAL
+
+## Princípios centrais para este perfil
+- Dificuldade para ler textos pequenos ou com baixo contraste
+- Pode precisar de lupa, alto contraste ou leitura em voz alta
+- Imagens precisam ser descritas com muito detalhe (alt text)
+- Beneficia-se de texto grande, fontes simples e alto contraste
+
+## Regras específicas de linguagem
+- Texto em fonte grande (recomende 18pt ou mais no corpo)
+- Use alto contraste absoluto (preto sobre branco ou branco sobre preto)
+- Evite cores pastel ou cinzas
+- Mantenha a estrutura simples
+
+## Estrutura recomendada
+- Texto em blocos bem definidos
+- Sempre forneça versão em texto puro (sem formatação complexa)
+- Ofereça versão para leitor de tela
+- Inclua alt text extremamente descritivo para todas as imagens
+
+## Adaptações visuais (críticas)
+- Fonte mínima recomendada: 18pt no corpo, 24pt+ em títulos
+- Contraste máximo: texto preto #000000 sobre fundo branco #FFFFFF
+- Evite qualquer fundo colorido claro
+- Evite texto sobre imagens
+- Use negrito forte para ênfase (não itálico)
+- Margens muito generosas
+- Evite elementos visuais pequenos
+
+## Requisitos obrigatórios de acessibilidade
+- Toda imagem gerada deve ter um alt text longo e descritivo
+- Forneça uma versão completamente textual (sem depender de imagens)
+- Recomende uso de leitores de tela (NVDA, JAWS, VoiceOver)
+- Sugira aumentar o zoom do navegador ou usar modo de alto contraste do sistema
+
+## O que NUNCA fazer neste perfil
+- Usar texto pequeno
+- Usar baixo contraste
+- Colocar texto sobre fundo colorido ou imagem
+- Usar elementos visuais muito detalhados sem descrição
+- Depender exclusivamente de cores para transmitir informação
+
+## Prompt de imagem extra para Baixa Visão
+Adicione: "alto contraste extremo, linhas grossas, formas simples e grandes, cores primárias fortes, design minimalista, adequado para pessoas com baixa visão, sem detalhes finos"
+
+## Combinação comum
+Pode vir com outras condições. Sempre forneça também uma versão puramente textual.

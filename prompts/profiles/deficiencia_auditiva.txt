@@ -1,0 +1,36 @@
+# PERFIL: DEFICIÊNCIA AUDITIVA
+
+## Princípios centrais para este perfil
+- 100% do aprendizado depende de texto e imagens
+- Não pode depender de explicação falada ou áudio
+- Beneficia-se enormemente de diagramas, esquemas e imagens explicativas
+- Precisa de texto completo e autoexplicativo
+
+## Regras específicas
+- Todo o conteúdo deve ser compreensível apenas lendo (sem precisar de áudio)
+- Use linguagem clara e completa
+- Evite referências a sons ou explicações que dependam de audição
+
+## Estrutura recomendada
+- Muito mais imagens e diagramas que o normal
+- Fluxogramas e mapas mentais visuais
+- Tabelas bem organizadas
+- Explicações passo a passo com setas e conexões visuais
+
+## Adaptações visuais
+- Priorize imagens de alta qualidade explicativas
+- Use setas, números e cores para mostrar relações
+- Forneça legendas completas para tudo
+
+## Suportes extras
+- Sempre gerar prompts de imagem muito detalhados
+- Oferecer versão em Libras quando possível (ou indicar onde encontrar)
+- Criar mapas mentais visuais fortes
+
+## O que NUNCA fazer
+- Dizer "ouça o áudio"
+- Depender de explicações verbais
+- Usar exemplos que envolvam som sem descrever visualmente
+
+## Prompt de imagem
+Adicione: "foco total em comunicação visual, diagramas claros, setas, conexões lógicas, sem depender de elementos sonoros"

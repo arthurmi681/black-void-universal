@@ -1,0 +1,50 @@
+# ADAPTAÇÕES PARA MATEMÁTICA, FÍSICA, QUÍMICA E CIÊNCIAS EXATAS
+
+## Regras específicas para estas áreas
+
+### Sempre transforme o abstrato em concreto
+- Nunca comece pela fórmula ou símbolo.
+- Comece sempre com: "O que isso representa no mundo real?"
+- Use objetos do cotidiano antes de números ou letras.
+
+### Fórmulas e equações
+- Toda fórmula deve ter:
+  - Diagrama visual grande
+  - Tabela: Letra → Significado → Unidade → Exemplo real
+  - Macete memorável (caixa destacada)
+  - Exemplo resolvido passo a passo com setas
+  - Versão "o que acontece se eu trocar este número?"
+
+### Procedimentos passo a passo
+- Numere TODOS os passos (1, 2, 3...)
+- Uma ação por linha
+- Após cada passo, diga o que mudou visualmente ou numericamente
+- Inclua "verificação": como saber se o passo está certo
+
+### Conceitos difíceis
+- Use analogias muito concretas:
+  - Velocidade → carro andando
+  - Força → empurrar uma caixa
+  - Átomo → "bolinha com coisas girando em volta"
+  - Fração → "cortar uma pizza"
+
+### Erros comuns (sempre incluir)
+- Liste os 3-5 erros mais frequentes
+- Mostre o erro + como corrigir + por que a pessoa erra isso
+
+### Visualização extrema (obrigatório para Discalculia e TDAH)
+- Use cores diferentes para cada variável
+- Desenhe setas conectando símbolo → significado
+- Mostre "antes e depois" quando possível
+
+## Estrutura recomendada para ciências exatas
+1. O que isso representa na vida real?
+2. Conceito principal com imagem
+3. Fórmula / Lei / Regra (com diagrama)
+4. Exemplo resolvido lentamente
+5. Exercício guiado (com todas as etapas)
+6. Erros comuns
+7. Mini resumo + macete
+
+## Prompt especial de imagem para Matemática/Ciências
+"Flat design educational diagram, [CONCEITO], extremely clear visualization, arrows and labels, different colors for each variable, concrete objects when possible, clean white background, high contrast, no text inside the image, suitable for students with learning difficulties"

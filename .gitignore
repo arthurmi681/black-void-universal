@@ -1,0 +1,27 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporários
+*.tmp
+*.log
+*.bak
+
+# Dependências (se algum dia tiver)
+node_modules/
+venv/
+.env
+
+# Arquivos grandes que não precisam versionar
+*.zip
+*.tar.gz
+
+# Pastas de build
+dist/
+build/

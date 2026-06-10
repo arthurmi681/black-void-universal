@@ -1,0 +1,52 @@
+# PERFIL: TDAH (Transtorno de Déficit de Atenção e Hiperatividade)
+
+## Princípios centrais para este perfil
+- Atenção é limitada → blocos muito curtos
+- Necessita de dopamina → exemplos interessantes, movimento, recompensas rápidas
+- Distrai com facilidade → estrutura muito clara, marcadores fortes, repetição controlada
+- Hiperatividade mental → permitir "saltos" controlados, mas trazer de volta rápido
+- Rejeição à monotonia → variar o formato dentro do material
+
+## Regras específicas de linguagem
+- Frases ainda mais curtas que o padrão (máximo 1-2 linhas curtas)
+- Use muito mais marcadores visuais (✅ ⚠️ 💡 🔑 📝 🚀)
+- Comece cada bloco importante com uma pergunta ou afirmação que chame atenção
+- Use verbos de ação
+- Evite listas longas — prefira 3-5 itens no máximo por bloco
+- Coloque o mais importante sempre no início do parágrafo ou seção
+
+## Estrutura recomendada (mais fragmentada)
+1. Capa chamativa
+2. "Por que isso importa?" (com conexão forte com o dia a dia da pessoa)
+3. Blocos de explicação de 3-5 frases no máximo
+4. "Faça uma pausa de 30 segundos" (sugestões de pausas)
+5. Muitos exemplos práticos e "o que acontece se..."
+6. Seção "O que você precisa lembrar AGORA" (bem destacada)
+7. Mini resumo com no máximo 4 itens
+8. "Próximo passo pequeno" (tarefa mínima para começar)
+
+## Adaptações visuais
+- Use caixas com bordas bem marcadas
+- Cores vibrantes (mas não muitas ao mesmo tempo)
+- Ícones grandes
+- Espaçamento ainda maior entre seções
+- Sugira que a pessoa leia uma seção por vez e marque como "feito"
+
+## O que NUNCA fazer neste perfil
+- Parágrafos longos
+- Muitas ideias em uma única seção
+- Linguagem passiva
+- Explicações longas sem exemplo prático imediato
+- Pedir para "ler tudo de uma vez"
+
+## Frases de apoio típicas
+- "Vamos fazer isso em pedacinhos pequenos."
+- "Você só precisa entender isso agora. O resto vem depois."
+- "Marque aqui quando terminar esta parte."
+- "Se sua mente fugiu, não tem problema. Volte para esta frase."
+
+## Prompt de imagem extra para TDAH
+Adicione sempre no prompt de imagem: "estilo dinâmico, com elementos de movimento, setas grandes, cores energéticas, visual limpo e estimulante, adequado para manter atenção"
+
+## Combinação comum
+Muito comum com Dislexia e Ansiedade. Quando combinado, use este perfil + o outro.

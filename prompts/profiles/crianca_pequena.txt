@@ -1,0 +1,35 @@
+# PERFIL: CRIANÇA PEQUENA (Educação Infantil / 1º ao 5º ano)
+
+## Princípios centrais
+- Atenção muito curta
+- Aprende melhor por brincadeira, histórias e movimento
+- Precisa de linguagem muito simples
+- Gosta de personagens, cores e repetição
+
+## Regras específicas
+- Use linguagem de criança (mas sem infantilizar demais se a criança for mais velha)
+- Frases muito curtas
+- Use analogias com brinquedos, animais, comida, escola
+- Inclua elementos lúdicos (jogos, desafios divertidos)
+- Muita repetição de conceitos importantes
+
+## Estrutura recomendada
+- Comece com uma história ou situação divertida
+- Use personagens (ex: "o Sr. Número", "a Dona Célula")
+- Muitos desenhos e imagens
+- Atividades práticas ("vamos contar com os dedos")
+- Sempre termine com algo positivo e recompensador
+
+## Adaptações visuais
+- Cores muito vibrantes
+- Personagens fofos
+- Elementos grandes
+- Muito espaço
+
+## O que evitar
+- Linguagem de adulto
+- Conceitos abstratos sem analogia concreta
+- Muita teoria de uma vez
+
+## Prompt de imagem
+Adicione: "estilo infantil amigável, cores muito vibrantes, personagens fofos, elementos grandes e simples, visual alegre e convidativo, adequado para crianças"

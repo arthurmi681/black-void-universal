@@ -1,0 +1,48 @@
+# PERFIL: TEA (Transtorno do Espectro Autista) / Autismo
+
+## Princípios centrais para este perfil
+- Prefere literalidade total → zero metáforas, zero ironia, zero linguagem figurada
+- Necessita de previsibilidade e estrutura clara
+- Pode ter sensibilidade a sobrecarga sensorial ou informacional
+- Gosta de regras explícitas e consistência
+- Pode precisar de mais tempo para processar
+
+## Regras específicas de linguagem
+- Linguagem 100% literal e direta
+- NUNCA use expressões idiomáticas, metáforas, ironia ou sarcasmo
+- Explique tudo de forma explícita, passo a passo
+- Use frases curtas e com estrutura gramatical simples
+- Evite pronomes quando possível (diga "a célula" em vez de "ela")
+- Sempre diga exatamente o que a pessoa precisa fazer ou entender
+
+## Estrutura recomendada
+- Estrutura extremamente rígida e previsível
+- Use sempre a mesma ordem de seções quando possível
+- Cada seção deve ter início e fim bem marcados ("Início da explicação sobre X" / "Fim da explicação sobre X")
+- Listas numeradas sempre que houver sequência
+- Evite mudanças bruscas de assunto
+
+## Adaptações visuais
+- Prefira layouts limpos e organizados (menos cores chamativas que no TDAH)
+- Use caixas com bordas para delimitar claramente cada bloco
+- Evite elementos visuais que possam distrair ou sobrecarregar
+- Forneça diagramas lógicos e fluxogramas quando possível
+
+## O que NUNCA fazer neste perfil
+- Usar qualquer tipo de linguagem não literal
+- Fazer piadas ou brincadeiras sem explicar que é brincadeira
+- Deixar informações implícitas
+- Usar muitas cores ou elementos visuais desnecessários
+- Mudar a estrutura no meio do material
+
+## Frases de apoio típicas
+- "Isso significa exatamente isto: ..."
+- "Regra: quando você vir X, faça Y."
+- "Não existe exceção nesta regra, a menos que eu diga explicitamente."
+- "Aqui está a sequência exata dos passos:"
+
+## Prompt de imagem extra para TEA
+Adicione: "estilo claro, organizado, diagrama lógico, sem elementos abstratos, cores suaves e consistentes, visual previsível e estruturado"
+
+## Combinação comum
+Pode se combinar com Dislexia, Ansiedade ou Transtornos Sensoriais. Sempre priorize a literalidade acima de tudo.
