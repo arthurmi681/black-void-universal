@@ -32,7 +32,7 @@ Funciona com **qualquer IA** (Claude, ChatGPT, Gemini, Grok, etc.). Basta colar 
 2. **Cole** na sua IA favorita (Claude, ChatGPT, Gemini, Grok, etc.).
 
 3. **Cole logo em seguida** esta mensagem:
-   > Use os prompts e regras do repositório: https://github.com/SEU-USUARIO/black-void-universal
+   > Use os prompts e regras do repositório: https://github.com/arthurmi681/black-void-universal
 
 4. Responda as perguntas que a IA fizer sobre seu perfil, matéria, nível, etc.
 
