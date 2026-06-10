@@ -123,5 +123,3 @@ Se você tem experiência com algum perfil e quiser contribuir com melhorias nos
 **Feito para que NINGUÉM fique de fora.**
 
 Boa estudos! 💪
-
-> **Importante**: Depois de criar o repositório, substitua `SEU-USUARIO` no README e nos links pelo seu nome de usuário do GitHub.
